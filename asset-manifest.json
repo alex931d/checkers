@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/checkers/static/css/main.c539095d.css",
-    "main.js": "/checkers/static/js/main.8904c85c.js",
+    "main.css": "/checkers/static/css/main.e1902251.css",
+    "main.js": "/checkers/static/js/main.6d0e42ad.js",
     "static/js/787.64e6c9eb.chunk.js": "/checkers/static/js/787.64e6c9eb.chunk.js",
     "index.html": "/checkers/index.html",
     "static/media/blackCrown.svg": "/checkers/static/media/blackCrown.c1dff9b23d59548aeb97.svg",
     "static/media/whiteCrown.svg": "/checkers/static/media/whiteCrown.3892b04880cb5df5da2c.svg",
-    "main.c539095d.css.map": "/checkers/static/css/main.c539095d.css.map",
-    "main.8904c85c.js.map": "/checkers/static/js/main.8904c85c.js.map",
+    "main.e1902251.css.map": "/checkers/static/css/main.e1902251.css.map",
+    "main.6d0e42ad.js.map": "/checkers/static/js/main.6d0e42ad.js.map",
     "787.64e6c9eb.chunk.js.map": "/checkers/static/js/787.64e6c9eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c539095d.css",
-    "static/js/main.8904c85c.js"
+    "static/css/main.e1902251.css",
+    "static/js/main.6d0e42ad.js"
   ]
 }
